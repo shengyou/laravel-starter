@@ -28,3 +28,8 @@ via `wget`
 2. run the script
 
 	``` sh starter.sh ```
+
+## Author
+* Shengyou Fan (If you like it, please endorse me on coderwall)
+
+[![endorse](https://api.coderwall.com/shengyou/endorsecount.png)](https://coderwall.com/shengyou)
